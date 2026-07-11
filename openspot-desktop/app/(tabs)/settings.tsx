@@ -124,6 +124,7 @@ export default function SettingsScreen() {
     { label: 'Russian', value: 'ru', nativeLabel: 'Russkiy' },
     { label: 'Hebrew', value: 'he', nativeLabel: 'Ivrit' },
     { label: 'Turkish', value: 'tr', nativeLabel: 'Türkçe' },
+    { label: 'Korean', value: 'ko', nativeLabel: 'Hangugeo' },
   ];
 
   const providerOptions: { label: string; value: string }[] = [

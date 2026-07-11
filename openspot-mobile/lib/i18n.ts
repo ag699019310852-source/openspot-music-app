@@ -9,6 +9,7 @@ import zh from '../locales/zh.json';
 import es from '../locales/es.json';
 import fr from '../locales/fr.json';
 import tr from '../locales/tr.json';
+import ko from '../locales/ko.json';
 
 const resources = {
   en: { translation: en },
@@ -20,6 +21,7 @@ const resources = {
   ru: { translation: ru },
   he: { translation: he },
   tr: { translation: tr },
+  ko: { translation: ko },
 };
 
 // eslint-disable-next-line import/no-named-as-default-member

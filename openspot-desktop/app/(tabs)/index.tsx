@@ -110,6 +110,7 @@ export default function HomeScreen() {
     { label: 'Russian', value: 'ru', nativeLabel: 'Russkiy' },
     { label: 'Hebrew', value: 'he', nativeLabel: 'Ivrit' },
     { label: 'Turkish', value: 'tr', nativeLabel: 'Türkçe' },
+    { label: 'Korean', value: 'ko', nativeLabel: 'Hangugeo' },
   ];
 
   
